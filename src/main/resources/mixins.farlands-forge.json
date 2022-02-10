@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "mixinPriority": 1002,
+  "package": "com.bnw.farlands.mixin",
+  "refmap": "mixins.farlands-forge.refmap.json",
+  "mixins": [
+    "MixinNoiseChunkGenerator",
+    "MixinOctavesNoiseGenerator"
+  ]
+}

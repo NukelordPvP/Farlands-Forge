@@ -1,0 +1,8 @@
+{
+  "farlandsforge.configGui.title": "%1$s Settings",
+  "farlandsforge.configGui.farlandsEnabled.title": "FarlandsEnabled",
+  "farlandsforge.configGui.overworldScale.title": "OverworldSacle",
+  "farlandsforge.configGui.netherScale.title": "NetherSacle",
+  "farlandsforge.configGui.endScale.title": "endSacle"
+
+}
