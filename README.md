@@ -14,11 +14,17 @@ The config can be configured through farlandsforge.toml
 settings for all of the world:
 
 farlandsEnabled = true
+
 #Range: 0.0 ~ 1.7976931348623157E308
+
 overworldScale = 64260096
+
 #Range: 0.0 ~ 1.7976931348623157E308
+
 endScale = 1028161536
+
 #Range: 0.0 ~ 1.7976931348623157E308
+
 netherScale = 32130048
  
 Custom Dimensions use netherScale!
